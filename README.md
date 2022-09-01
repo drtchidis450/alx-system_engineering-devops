@@ -1,3 +1,1 @@
-# alx-system_engineering-devops
-#!/bin/bash
-pwd
+Task 0. Where am I?
