@@ -1,3 +1,1 @@
-script that prints the absolute path name of the current working dire
-
-> > tory
+current directory contents, including hidden files
