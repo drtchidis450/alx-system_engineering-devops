@@ -1,1 +1,1 @@
-Write a script that prints the result of
+Write a script that displays the result of
